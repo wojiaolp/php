@@ -1,0 +1,31 @@
+2017-01-24 16:15:27 pid:54375 Workerman[http_test.php] start in DEBUG mode
+2017-01-24 16:17:13 pid:54375 Workerman[http_test.php] Stopping ...
+2017-01-24 16:17:13 pid:54375 Workerman[http_test.php] has been stopped
+2017-01-24 16:25:35 pid:55722 Workerman[ws_test.php] start in DEBUG mode
+2017-01-24 16:32:28 pid:55722 Workerman[ws_test.php] Stopping ...
+2017-01-24 16:32:28 pid:55722 Workerman[ws_test.php] has been stopped
+2017-01-24 16:34:38 pid:56996 Workerman[tcp_test.php] start in DEBUG mode
+2017-01-24 17:19:30 pid:56996 Workerman[tcp_test.php] Stopping ...
+2017-01-24 17:19:30 pid:56996 Workerman[tcp_test.php] has been stopped
+2017-02-03 16:51:10 pid:98985 Workerman[http_test.php] start in DEBUG mode
+2017-02-03 17:34:17 pid:98985 Workerman[http_test.php] Stopping ...
+2017-02-03 17:34:17 pid:98985 Workerman[http_test.php] has been stopped
+2017-02-03 17:34:32 pid:104818 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-03 17:47:18 pid:104818 Workerman[tcp_test.php] Stopping ...
+2017-02-03 17:47:18 pid:104818 Workerman[tcp_test.php] has been stopped
+2017-02-04 14:30:38 pid:23347 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-04 14:38:47 pid:23347 Workerman[tcp_test.php] Stopping ...
+2017-02-04 14:38:47 pid:23347 Workerman[tcp_test.php] has been stopped
+2017-02-04 14:52:17 pid:26239 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 14:53:23 pid:26381 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 14:55:00 pid:26582 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 14:59:50 pid:27214 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 15:38:50 pid:32333 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 15:49:21 pid:33747 Workerman[http_test.php] start in DEBUG mode
+2017-02-04 15:56:20 pid:33747 Workerman[http_test.php] Stopping ...
+2017-02-04 15:56:20 pid:33747 Workerman[http_test.php] has been stopped
+2017-02-04 15:56:23 pid:32333 Workerman[jsonnl_test.php] Stopping ...
+2017-02-04 15:56:23 pid:32333 Workerman[jsonnl_test.php] has been stopped
+2017-02-04 15:56:28 pid:34690 Workerman[jsonnl_test.php] start in DEBUG mode
+2017-02-04 16:11:40 pid:34690 Workerman[jsonnl_test.php] Stopping ...
+2017-02-04 16:11:40 pid:34690 Workerman[jsonnl_test.php] has been stopped
