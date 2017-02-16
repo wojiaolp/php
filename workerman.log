@@ -29,3 +29,16 @@
 2017-02-04 15:56:28 pid:34690 Workerman[jsonnl_test.php] start in DEBUG mode
 2017-02-04 16:11:40 pid:34690 Workerman[jsonnl_test.php] Stopping ...
 2017-02-04 16:11:40 pid:34690 Workerman[jsonnl_test.php] has been stopped
+2017-02-06 10:51:41 pid:19924 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-06 10:52:27 pid:19924 Workerman[tcp_test.php] Stopping ...
+2017-02-06 10:52:27 pid:19924 Workerman[tcp_test.php] has been stopped
+2017-02-06 10:58:43 pid:20861 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-06 10:59:23 pid:20861 Workerman[tcp_test.php] Stopping ...
+2017-02-06 10:59:23 pid:20861 Workerman[tcp_test.php] has been stopped
+2017-02-06 10:59:49 pid:21007 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-06 11:00:29 pid:21007 Workerman[tcp_test.php] Stopping ...
+2017-02-06 11:00:29 pid:21007 Workerman[tcp_test.php] has been stopped
+2017-02-06 11:05:54 pid:21813 Workerman[tcp_test.php] start in DAEMON mode
+2017-02-06 14:09:14 pid:45870 Workerman[tcp_test.php] start in DEBUG mode
+2017-02-06 14:09:41 pid:45870 Workerman[tcp_test.php] Stopping ...
+2017-02-06 14:09:41 pid:45870 Workerman[tcp_test.php] has been stopped
