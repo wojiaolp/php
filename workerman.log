@@ -42,3 +42,6 @@
 2017-02-06 14:09:14 pid:45870 Workerman[tcp_test.php] start in DEBUG mode
 2017-02-06 14:09:41 pid:45870 Workerman[tcp_test.php] Stopping ...
 2017-02-06 14:09:41 pid:45870 Workerman[tcp_test.php] has been stopped
+2017-02-24 11:01:04 pid:13038 Workerman[webserver.php] start in DEBUG mode
+2017-02-24 11:01:10 pid:13038 Workerman[webserver.php] Stopping ...
+2017-02-24 11:01:10 pid:13038 Workerman[webserver.php] has been stopped
