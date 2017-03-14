@@ -1,4 +1,11 @@
 <?php
+/*
+ * $xcar_db = new XCARDB($CONFIG['db']['TEST_CMS_DB']);
+ * $xcar_db->GetRows($sql);
+ * $xcar_db->getOne($sql);
+ * $xcar_db->query($sql);
+ * $xcar_db->insertid();
+ */
 class mysql_db
 {
 	var $db_link = NULL;
